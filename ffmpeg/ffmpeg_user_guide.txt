@@ -1,0 +1,7 @@
+This is a file name ffmpeg 
+Used for transcriping 
+For using whisper library
+
+
+Take the path of this file 
+and add into the environmental variable
